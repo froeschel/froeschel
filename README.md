@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @froeschel (christoph).
-- 👀 I’m interested in... cloud computing, learning, golang, cosmosDB, road cycling, skateboarding.
-- 🌱 I’m currently learning... golang.
+- 👀 I’m interested in... cloud computing, learning, road cycling, skateboarding.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...[christoph.froeschel at outlook.com]
 
