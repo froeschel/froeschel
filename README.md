@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @froeschel (christoph).
-- 👀 I’m interested in... cloud computing, learning, road cycling, skateboarding.
+- 👀 I’m interested in... cloud computing, learning, road cycling, reading, consol gaming.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...[christoph.froeschel at outlook.com]
 
